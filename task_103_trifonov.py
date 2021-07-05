@@ -8,5 +8,5 @@ n_double = int(n+n)
 n_triple = int(n+n+n)
 # найдем сумму чисел, не забыв придать n тип integer
 sum = int(n) + n_double + n_triple
-
 print(sum)
+#загрузил задание 3 в репозиторий
